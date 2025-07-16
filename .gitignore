@@ -129,3 +129,7 @@ dist
 build
 .strapi-updater.json
 .strapi-cloud.json
+./backend/node_modules
+./backend/dist
+./backend/package-lock.json
+./frontend/package-lock.json
